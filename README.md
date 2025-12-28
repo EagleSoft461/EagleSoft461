@@ -1,11 +1,35 @@
 # Hi there, I'm Ali Orhan! 👋
-### Software Developer | Passionate about Multi-Stack Development
+### Software Developer | AI-Oriented Full-Stack / Multi-Platform Engineer
 
-I am a versatile developer dedicated to building clean, efficient, and scalable solutions across Backend, Mobile, and Web platforms. I love turning complex problems into elegant code.
+I build **end-to-end software solutions** — from scalable backend systems and APIs to modern web and mobile interfaces — with a strong focus on **AI-powered features**, **computer vision**, and **performance-aware architectures**.
+
+I enjoy turning complex problems into clean, efficient, and maintainable code.
+---
+
+## 🚀 What I Build
+- Full-stack applications (backend, frontend, and mobile)
+- AI-powered tools and computer vision pipelines
+- Scalable, maintainable, and performance-focused systems
 
 ---
 
-### 🛠️ Tech Stack
+## 🧠 Featured Project: AI Background Remover
+**AI Background Remover (Full-Stack)**  
+End-to-end application that allows users to remove backgrounds from images using AI models.  
+- **Backend:** Python + FastAPI, AI inference with OpenCV & PyTorch  
+- **Frontend:** React, responsive web interface  
+- **Database:** Optional SQL integration for user sessions  
+- **Deployment:** Dockerized, scalable architecture  
+
+> This project demonstrates **full-stack development**, **AI integration**, and **performance optimization**.
+
+---
+
+<!-- ===================== -->
+<!-- 🔽 SECOND LAYER BELOW -->
+<!-- ===================== -->
+
+### 🛠️ Technical Skills
 
 **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -20,6 +44,19 @@ I am a versatile developer dedicated to building clean, efficient, and scalable 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+> All listed technologies are supported by formal education, certifications, and hands-on project experience.
+
+---
+
+## ⚙️ Engineering Mindset
+- End-to-end ownership: design → implementation → optimization  
+- Clean, readable, and maintainable code  
+- Performance and optimization awareness  
+- Problem-first development approach  
+- Continuous learning through real-world projects
+
+---
 
 ---
 
