@@ -9,20 +9,26 @@ I enjoy turning complex problems into clean, efficient, and maintainable code.
 ## 🚀 What I Build
 - Full-stack applications (backend, frontend, and mobile)
 - AI-powered tools and computer vision pipelines
-- Scalable, maintainable, and performance-focused systems
 - Systems designed with performance, memory, and deployment constraints in mind
 
 ---
+## 🔌 Hardware–Software Integration
+- Hardware treated as system clients rather than isolated components
+- Data pipelines designed from device-level input to backend processing
+- Performance-aware integration between hardware constraints and software systems
 
-## 🧠 Featured Project: AI Background Remover
+## 🧠 Featured Project:
 **AI Background Remover (Full-Stack)**  
-End-to-end application that allows users to remove backgrounds from images using AI models.  
+End-to-end application that allows users to remove backgrounds from images using AI models.
+
 - **Backend:** Python + FastAPI, AI inference with OpenCV & PyTorch  
 - **Frontend:** React, responsive web interface  
-- **Database:** Optional SQL integration for user sessions  
 - **Deployment:** Dockerized, scalable architecture  
 
-> This project demonstrates **full-stack development**, **AI integration**, and **performance optimization**.
+• Optimized inference pipeline to reduce processing latency  
+• Designed with modular architecture for easy scaling and model replacement  
+
+> Demonstrates **full-stack development**, **AI integration**, and **performance-aware system design**.
 
 ---
 
