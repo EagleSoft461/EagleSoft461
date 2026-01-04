@@ -10,6 +10,7 @@ I enjoy turning complex problems into clean, efficient, and maintainable code.
 - Full-stack applications (backend, frontend, and mobile)
 - AI-powered tools and computer vision pipelines
 - Scalable, maintainable, and performance-focused systems
+- Systems designed with performance, memory, and deployment constraints in mind
 
 ---
 
