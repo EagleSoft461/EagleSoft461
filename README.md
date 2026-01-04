@@ -1,5 +1,5 @@
 # Hi there, I'm Ali Orhan! 👋
-### Software Developer | AI-Oriented Full-Stack / Multi-Platform Engineer
+### Software Developer | AI-Oriented Full-Stack / Multi-Platform Engineer + Hardware–Software Engineer
 
 I build **end-to-end software solutions** — from scalable backend systems and APIs to modern web and mobile interfaces — with a strong focus on **AI-powered features**, **computer vision**, and **performance-aware architectures**.
 
