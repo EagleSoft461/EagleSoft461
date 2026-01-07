@@ -64,7 +64,18 @@ End-to-end application that allows users to remove backgrounds from images using
 - Continuous learning through real-world projects
 
 ---
+## 🧠 AI-Assisted Development Workflow
 
+This project was developed using an AI-assisted engineering workflow.
+
+Large Language Models were used as a support tool for:
+- Architectural exploration and design validation
+- Edge case analysis and failure scenario reasoning
+- Code refactoring and readability improvements
+- Documentation drafting and consistency checks
+
+All architectural decisions, final implementations, and optimizations
+were designed, reviewed, and validated by the developer.
 ---
 
 ### 📊 GitHub Stats
