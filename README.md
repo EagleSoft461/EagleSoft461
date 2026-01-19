@@ -73,7 +73,7 @@ VOMAC addresses this gap by providing a clean, extensible foundation that allows
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-> All listed technologies are supported by formal education, certifications, and hands-on project experience.
+> Technologies listed here are actively used across personal and long-term system-oriented projects.
 
 ---
 
