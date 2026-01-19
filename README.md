@@ -1,5 +1,5 @@
 # Hi there, I'm Ali Orhan! 👋
-### AI-Oriented Full-Stack Engineer | Hardware–Software Systems
+### Backend & Systems Engineer — AI Infrastructure Focus
 
 I build **end-to-end software solutions** — from scalable backend systems and APIs to modern web and mobile interfaces — with a strong focus on **AI-powered features**, **computer vision**, and **performance-aware architectures**.
 
