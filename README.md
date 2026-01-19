@@ -5,7 +5,6 @@ I design and build **backend and system-level software focused on turning AI mod
 
 My work emphasizes **scalability, performance, and clean architecture — ensuring that experimental ideas** can evolve into stable, maintainable systems.
 
-I enjoy turning complex problems into clean, efficient, and maintainable code.
 ---
 
 ## 🚀 What I Build
