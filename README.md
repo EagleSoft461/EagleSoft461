@@ -1,10 +1,9 @@
 # Hi there, I'm Ali Orhan! 👋
 ### Backend & Systems Engineer — AI Infrastructure Focus
 
-I design and build **backend and system-level software focused on turning AI models** into reliable, production-ready services.
+I design and **build backend and system-level software focused on turning AI models** into reliable, production-ready services.
 
-My work emphasizes **scalability, performance, and clean architecture — ensuring that experimental ideas** can evolve into stable, maintainable systems.
-
+My work emphasizes scalability, performance, and clean architecture for long-term system stability.
 ---
 
 ## 🚀 What I Build
@@ -72,6 +71,7 @@ VOMAC addresses this gap by providing a clean, extensible foundation that allows
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=databricks&logoColor=white)
 
 > Technologies listed here are actively used across personal and long-term system-oriented projects.
 
