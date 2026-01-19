@@ -1,15 +1,19 @@
 # Hi there, I'm Ali Orhan! 👋
 ### Backend & Systems Engineer — AI Infrastructure Focus
 
-I build **end-to-end software solutions** — from scalable backend systems and APIs to modern web and mobile interfaces — with a strong focus on **AI-powered features**, **computer vision**, and **performance-aware architectures**.
+I design and build **backend and system-level software focused on turning AI models** into reliable, production-ready services.
+
+My work emphasizes **scalability, performance, and clean architecture — ensuring that experimental ideas** can evolve into stable, maintainable systems.
 
 I enjoy turning complex problems into clean, efficient, and maintainable code.
 ---
 
 ## 🚀 What I Build
-- Full-stack applications (backend, frontend, and mobile)
-- AI-powered tools and computer vision pipelines
-- Systems designed with performance, memory, and deployment constraints in mind
+- AI inference and model-serving APIs  
+- Backend systems designed for scalability and reliability  
+- Background task & worker architectures  
+- Performance-aware services and data pipelines  
+- Hardware-to-backend communication systems
 
 ---
 ## 🔌 Hardware–Software Integration
@@ -17,9 +21,23 @@ I enjoy turning complex problems into clean, efficient, and maintainable code.
 - Data pipelines designed from device-level input to backend processing
 - Performance-aware integration between hardware constraints and software systems
 
-## 🧠 Featured Project:
-**AI Background Remover (Full-Stack)**  
-End-to-end application that allows users to remove backgrounds from images using AI models.
+## 🧠 Featured Project — VOMAC
+
+**VOMAC (Virtual Orchestrated Modular AI Core)** is a backend-oriented AI infrastructure system designed to transform machine learning models into scalable, production-ready services.
+
+Rather than focusing on model training, VOMAC focuses on the **system layer around AI** — including orchestration, lifecycle management, and reliable inference delivery.
+
+### Core Capabilities
+- Modular AI model loading and replacement  
+- Unified inference interface exposed via APIs  
+- Background task processing and worker architecture  
+- Scalable service design with clean separation of concerns  
+- Infrastructure-ready structure for containerized deployment  
+
+### Why VOMAC?
+Many AI projects fail not because of model quality, but because they lack reliable backend infrastructure.
+
+VOMAC addresses this gap by providing a clean, extensible foundation that allows AI systems to move from experimentation to real-world production environments.
 
 - **Backend:** Python + FastAPI, AI inference with OpenCV & PyTorch  
 - **Frontend:** React, responsive web interface  
@@ -38,16 +56,20 @@ End-to-end application that allows users to remove backgrounds from images using
 
 ### 🛠️ Technical Skills
 
-**Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+**Core Technologies:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+**🔹 Supporting Technologies:**
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-
-**Frameworks & Tools:**
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
@@ -57,12 +79,11 @@ End-to-end application that allows users to remove backgrounds from images using
 ---
 
 ## ⚙️ Engineering Mindset
-- End-to-end ownership: design → implementation → optimization  
-- Clean, readable, and maintainable code  
-- Performance and optimization awareness  
-- Problem-first development approach  
-- Continuous learning through real-world projects
-
+- System-first thinking before implementation  
+- Awareness of performance, memory, and scalability trade-offs  
+- Clean, readable, and maintainable architecture  
+- Failure-aware design and predictable behavior under load  
+- Long-term sustainability over short-term hacks
 ---
 
 ## 🧠 AI-Assisted Development Workflow
@@ -89,10 +110,9 @@ were designed, reviewed, and validated by the developer.
 ---
 
 ### 🔭 Current Focus
-- 📱 **Mobile:** Mastering **Flutter** and **Kotlin** for high-performance cross-platform apps.
-- 🌐 **Web:** Deep diving into **React** and **Angular** ecosystems.
-- 💻 **Systems:** Enhancing my skills in **C++** and **C#** for robust backend architectures.
-- 🗄️ **Data:** Crafting optimized queries and database structures with **SQL**.
+- Designing scalable backend systems and AI service infrastructure  
+- Deepening system-level knowledge in performance, memory, and concurrency  
+- Building long-term projects with clean and maintainable architecture
 
 ---
 
