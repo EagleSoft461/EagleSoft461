@@ -1,13 +1,13 @@
 # Hi there, I'm Ali Orhan! 👋
 ### Backend & Systems Engineer — AI Infrastructure Focus
 
-I focus on **designing backend and system-level software focused on turning AI models** into reliable, production-oriented architectures.
+I focus on **designing backend and system-level software** intended to support reliable, production-oriented AI architectures.
 
 My work emphasizes scalability, performance, and clean architecture for long-term system stability.
 ---
 
-## 🚀 What I Build
-- AI inference and model-serving APIs  
+## 🚀 Areas of Focus
+- AI inference and model-serving architecture design
 - Backend systems designed for scalability and reliability  
 - Background task & worker architectures  
 - Performance-aware services and data pipelines  
@@ -21,7 +21,7 @@ My work emphasizes scalability, performance, and clean architecture for long-ter
 
 ## 🧠 Featured Project — VOMAC
 
-**VOMAC (Virtual Orchestrated Modular AI Core)** is a backend-oriented AI infrastructure system designed to transform machine learning models into scalable, production-ready services.
+**VOMAC (Virtual Orchestrated Modular AI Core)** is a backend-oriented AI infrastructure system designed to explore how machine learning models can be integrated into scalable, system-oriented backend architectures
 
 Rather than focusing on model training, VOMAC focuses on the **system layer around AI** — including orchestration, lifecycle management, and reliable inference delivery.
 
@@ -43,8 +43,6 @@ VOMAC addresses this gap by providing a clean, extensible foundation that allows
 
 • Optimized inference pipeline to reduce processing latency  
 • Designed with modular architecture for easy scaling and model replacement  
-
-> Demonstrates **full-stack development**, **AI integration**, and **performance-aware system design**.
 
 ---
 
@@ -72,7 +70,7 @@ VOMAC addresses this gap by providing a clean, extensible foundation that allows
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
 
-> Technologies listed here are actively used across personal and long-term system-oriented projects.
+> Technologies listed here reflect tools used or explored across personal and long-term system-oriented projects.
 
 ---
 
