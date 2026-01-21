@@ -1,7 +1,7 @@
 # Hi there, I'm Ali Orhan! 👋
 ### Backend & Systems Engineer — AI Infrastructure Focus
 
-I design and **build backend and system-level software focused on turning AI models** into reliable, production-ready services.
+I focus on **designing backend and system-level software focused on turning AI models** into reliable, production-oriented architectures.
 
 My work emphasizes scalability, performance, and clean architecture for long-term system stability.
 ---
@@ -25,7 +25,7 @@ My work emphasizes scalability, performance, and clean architecture for long-ter
 
 Rather than focusing on model training, VOMAC focuses on the **system layer around AI** — including orchestration, lifecycle management, and reliable inference delivery.
 
-### Core Capabilities
+### Architectural Goals
 - Modular AI model loading and replacement  
 - Unified inference interface exposed via APIs  
 - Background task processing and worker architecture  
