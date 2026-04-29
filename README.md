@@ -98,9 +98,9 @@ were designed, reviewed, and validated by the developer.
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EagleSoft461&show_icons=true&theme=tokyonight&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EagleSoft461&layout=compact&langs_count=7&theme=tokyonight" height="180" />
+<p align="left">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=EagleSoft461&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EagleSoft461&layout=compact&langs_count=7&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
