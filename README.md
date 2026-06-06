@@ -1,7 +1,7 @@
 # Hi there, I'm Ali Orhan! 👋
-### Backend & Systems Engineer — AI Infrastructure Focus
+### Backend & Systems Engineer
 
-I focus on **designing backend and system-level software** intended to support reliable, production-oriented AI architectures.
+Building scalable backend services, distributed systems, and AI-enabled infrastructure.
 
 My work emphasizes scalability, performance, and clean architecture for long-term system stability.
 ---
@@ -81,7 +81,6 @@ VOMAC addresses this gap by providing a clean, extensible foundation that allows
 - Failure-aware design and predictable behavior under load  
 - Long-term sustainability over short-term hacks
 ---
-
 ## 🧠 AI-Assisted Development Workflow
 
 This project was developed using an AI-assisted engineering workflow.
@@ -104,12 +103,40 @@ were designed, reviewed, and validated by the developer.
 </p>
 
 ---
+### 📈 Engineering Growth
+
+- Building production-oriented backend projects
+- Studying system design and scalable architectures
+- Practicing algorithms through LeetCode
+- Exploring AI infrastructure and model-serving systems
+---
+## 🧩 Problem Solving
+
+I actively practice algorithms and data structures through LeetCode
+to strengthen software engineering fundamentals and problem-solving skills.
+
+- Data Structures & Algorithms
+- Graphs & Trees
+- Dynamic Programming
+- Backend-Oriented Problem Solving
+- System Design Foundations
+
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/Alieag9773838373773?theme=dark&font=Nunito&ext=heatmap" />
+</p>
+
+LeetCode Profile:
+https://leetcode.com/u/Alieag9773838373773/
+---
 
 ### 🔭 Current Focus
-- Designing scalable backend systems and AI service infrastructure  
-- Deepening system-level knowledge in performance, memory, and concurrency  
-- Building long-term projects with clean and maintainable architecture
 
+- Distributed systems fundamentals
+- Scalable backend architecture
+- AI infrastructure and inference systems
+- Performance optimization
+- Algorithms and data structures
+- System design principles
 ---
 
 ### 📫 Let's Connect
