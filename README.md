@@ -98,7 +98,6 @@ were designed, reviewed, and validated by the developer.
 
 ### 📊 GitHub Stats
 <p align="left">
-<p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EagleSoft461&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EagleSoft461&layout=compact&theme=tokyonight" />
 </p>
