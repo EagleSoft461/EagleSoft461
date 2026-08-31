@@ -124,10 +124,7 @@ to strengthen software engineering fundamentals and problem-solving skills.
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/EagleSoft461?theme=dark&font=baloo)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/EagleSoft461/)
-
-LeetCode Profile:
-https://leetcode.com/u/Alieag9773838373773/
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/Alieag9773838373773/)
 ---
 
 ### 🔭 Current Focus
