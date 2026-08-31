@@ -122,7 +122,7 @@ to strengthen software engineering fundamentals and problem-solving skills.
 - Backend-Oriented Problem Solving
 - System Design Foundations
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/EagleSoft461?theme=dark&font=baloo)
+![LeetCode Stats](https://github-readme-leetcode-stats-iota.vercel.app/api/card?theme=hacker&hide_border=true)
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/Alieag9773838373773/)
 ---
