@@ -91,8 +91,7 @@ Large Language Models were used as a support tool for:
 - Code refactoring and readability improvements
 - Documentation drafting and consistency checks
 
-All architectural decisions, final implementations, and optimizations
-were designed, reviewed, and validated by the developer.
+AI tools are used as engineering assistants for exploration, refactoring, documentation, and edge-case analysis. Technical decisions and final validation remain developer-owned.
 
 ---
 
