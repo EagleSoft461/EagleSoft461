@@ -95,11 +95,15 @@ AI tools are used as engineering assistants for exploration, refactoring, docume
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EagleSoft461&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EagleSoft461&layout=compact&theme=tokyonight" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=EagleSoft461&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=EagleSoft461&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=EagleSoft461&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=EagleSoft461&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 ### 📈 Engineering Growth
@@ -136,9 +140,7 @@ to strengthen software engineering fundamentals and problem-solving skills.
 ---
 
 ### 📫 Let's Connect
-- **LinkedIn:** [https://www.linkedin.com/in/ali-orhan-ok-309a2a38a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
-- **Email:** [aliorhanok78@gmail.com]
-- **Portfolio:** *Coming Soon...*
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/AliorhnQK3_1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ALI ORHAN OK) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Aliorhan | Backend Developer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aliorhanok78@gmail.com)
 
 ---
 *“Code is like humor. When you have to explain it, it’s bad.”*
