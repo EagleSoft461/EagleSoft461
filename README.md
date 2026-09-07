@@ -7,42 +7,52 @@ My work emphasizes scalability, performance, and clean architecture for long-ter
 ---
 
 ## 🚀 Areas of Focus
-- AI inference and model-serving architecture design
-- Backend systems designed for scalability and reliability  
-- Background task & worker architectures  
-- Performance-aware services and data pipelines  
-- Hardware-to-backend communication systems
+
+* AI inference and model-serving architecture
+* Backend systems designed for scalability and reliability
+* Background task and worker architectures
+* Performance-aware services and data pipelines
+* Hardware-to-backend communication and integration
 
 ---
+
 ## 🔌 Hardware–Software Integration
-- Hardware treated as system clients rather than isolated components
-- Data pipelines designed from device-level input to backend processing
-- Performance-aware integration between hardware constraints and software systems
+
+* Treating hardware devices as system clients rather than isolated components
+* Designing data pipelines from device-level input to backend processing
+* Considering hardware constraints when designing software interfaces and data flows
 
 ## 🧠 Featured Project — VOMAC
 
-**VOMAC (Virtual Orchestrated Modular AI Core)** is a backend-oriented AI infrastructure system designed to explore how machine learning models can be integrated into scalable, system-oriented backend architectures
+**VOMAC (Virtual Orchestrated Modular AI Core)** is a backend-oriented AI infrastructure project exploring how machine learning models can be integrated into modular and system-oriented backend architectures.
 
-Rather than focusing on model training, VOMAC focuses on the **system layer around AI** — including orchestration, lifecycle management, and reliable inference delivery.
+Rather than focusing on model training, VOMAC focuses on the **system layer around AI** — including model orchestration, lifecycle management, and inference delivery.
 
 ### Architectural Goals
-- Modular AI model loading and replacement  
-- Unified inference interface exposed via APIs  
-- Background task processing and worker architecture  
-- Scalable service design with clean separation of concerns  
-- Infrastructure-ready structure for containerized deployment  
+
+* Modular AI model loading and replacement
+* Unified inference interfaces exposed through APIs
+* Background task processing and worker architecture
+* Clear separation of concerns across system components
+* Container-ready architecture for deployment and further experimentation
 
 ### Why VOMAC?
-Many AI projects fail not because of model quality, but because they lack reliable backend infrastructure.
 
-VOMAC addresses this gap by providing a clean, extensible foundation that allows AI systems to move from experimentation to real-world production environments.
+VOMAC explores the engineering challenges around integrating AI inference into backend systems, with an emphasis on modularity, maintainability, and reliable service design.
 
-- **Backend:** Python + FastAPI, AI inference with OpenCV & PyTorch  
-- **Frontend:** React, responsive web interface  
-- **Deployment:** Dockerized, scalable architecture  
+The goal is to provide a structured foundation for experimenting with AI-powered backend services without tightly coupling the application to a single model or implementation.
 
-• Optimized inference pipeline to reduce processing latency  
-• Designed with modular architecture for easy scaling and model replacement  
+* **Backend:** Python + FastAPI
+
+* **AI / Inference:** PyTorch + OpenCV
+
+* **Frontend:** React
+
+* **Deployment:** Docker
+
+* Designed a modular inference pipeline with model replacement in mind
+
+* Structured the system to separate inference, orchestration, and API responsibilities
 
 ---
 
@@ -103,6 +113,12 @@ AI tools are used as engineering assistants for exploration, refactoring, docume
 ---
 [![](https://komarev.com/ghpvc/?username=EagleSoft461&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EagleSoft461/EagleSoft461/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EagleSoft461/EagleSoft461/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/EagleSoft461/EagleSoft461/output/github-snake.svg">
+</picture>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
@@ -140,7 +156,7 @@ to strengthen software engineering fundamentals and problem-solving skills.
 ---
 
 ### 📫 Let's Connect
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/AliorhnQK3_1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ALI ORHAN OK) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Aliorhan | Backend Developer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aliorhanok78@gmail.com)
+<p align="center"> <a href="https://instagram.com/AliorhnQK3_1"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> </a> <a href="https://www.linkedin.com/in/ali-orhan-ok-309a2a38a"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://medium.com/@Aliorhan"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"> </a> <a href="mailto:aliorhanok78@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> </p>
 
 ---
 *“Code is like humor. When you have to explain it, it’s bad.”*
