@@ -13,15 +13,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Push snake
-        uses: EndBug/add-and-commit@v9
+      - name: Publish snake to output branch
+        uses: crazy-max/ghaction-github-pages@v5
         with:
-          message: "chore: update contribution snake"
-          add: "dist/github-snake.svg"
+          build_dir: dist
+          target_branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
